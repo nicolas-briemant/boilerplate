@@ -1,0 +1,27 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"font_size": 7,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"preview_on_click": false,
+	"rulers":
+	[
+		100
+	],
+	"scroll_past_end": false,
+	"show_encoding": true,
+	"smart_indent": true,
+	"tab_size": 2,
+	"theme": "SoDaReloaded Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true
+}
